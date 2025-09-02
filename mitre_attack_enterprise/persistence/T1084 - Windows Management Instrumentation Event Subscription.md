@@ -1,2 +1,0 @@
-# T1084 Windows Management Instrumentation Event Subscription
-
